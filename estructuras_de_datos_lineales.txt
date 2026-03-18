@@ -1,0 +1,12 @@
+DOCUMENTO: ESTRUCTURAS DE DATOS LINEALES
+
+1.  Listas: Una lista es una colección de elementos organizados de forma
+    secuencial. Permite insertar, eliminar y recorrer elementos.
+
+2.  Pilas (Stacks): Estructura LIFO (Last In, First Out). El último
+    elemento en entrar es el primero en salir. Operaciones principales:
+    push, pop.
+
+3.  Colas (Queues): Estructura FIFO (First In, First Out). El primer
+    elemento en entrar es el primero en salir. Operaciones principales:
+    enqueue, dequeue.
