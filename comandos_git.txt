@@ -1,0 +1,5 @@
+1. git push
+2. git bash
+3. git add
+4. git pull
+5. git branch
