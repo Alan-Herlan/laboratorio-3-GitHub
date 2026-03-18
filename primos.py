@@ -6,8 +6,8 @@ def es_primo(n):
             return False
     return True
 
-a = int(input())
-b = int(input())
+a = int(input("introduce numero: "))
+b = int(input("introduce numero: "))
 
 contador = 0
 

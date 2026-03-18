@@ -3,13 +3,13 @@ import java.util.Scanner;
 public class primo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Introduce un número: ");
+        System.out.print("escribir numero: ");
         int n = sc.nextInt();
         
         if (esPrimo(n)) {
-            System.out.println(n + " es primo.");
+            System.out.println("es primo.");
         } else {
-            System.out.println(n + " no es primo.");
+            System.out.println("no es primo.");
         }
     }
 
